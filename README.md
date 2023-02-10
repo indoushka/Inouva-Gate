@@ -18,5 +18,5 @@ Inspired in the work of: ['@r00t-3xp10it - meterpeter'](https://github.com/r00t-
 | # -------------------------------------------------------------------------------
 [+]                            Author: indoushka                                  |
 | # ------------------------- Greetings to :---------------------------------------
-| #        jericho * Larry W. Cashdollar *hyp3rlinx*shadow_00715 *                |        
-| # ===============================================================================
+| #        jericho * Larry W. Cashdollar *hyp3rlinx*shadow_00715 *   
+
